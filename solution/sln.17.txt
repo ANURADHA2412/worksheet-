@@ -1,0 +1,2 @@
+output
+// error  switch is not an integer
