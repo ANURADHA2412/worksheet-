@@ -1,0 +1,2 @@
+output
+case label is Acase lebal is B
